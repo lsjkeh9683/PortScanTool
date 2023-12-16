@@ -1,0 +1,30 @@
+# 빌드 결과물
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.lib
+*.dll
+*.dylib
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.pch
+*.suo
+*.sdf
+*.exp
+*.res
+*.ipch
+*.filters
+
+# 디렉토리
+Debug/
+Release/
+.vs/
+build/
+bin/
+obj/
+tmp/
